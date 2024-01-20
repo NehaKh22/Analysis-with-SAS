@@ -1,4 +1,4 @@
-# Analysis-with-SAS
+# Streaming on SAS
 
 In my recent Human Resource Analysis project undertaken in September 2022, I harnessed the power of SAS Base to conduct a comprehensive analysis of a substantial dataset comprising 51,000 records. The project unfolded in multiple stages, beginning with a meticulous data cleansing process to ensure the accuracy and reliability of the dataset. Subsequently, I delved into an in-depth descriptive assessment, uncovering intricate patterns and characteristics inherent in the human resource data.
 
